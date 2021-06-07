@@ -1,4 +1,4 @@
-# FaceDetection-Text-Extractor-from-Image
+#Image_Processing-FaceDetection And Text-Extractor-from-Image
 Through this we can apply different filter to an image.
 This project will also able to detect a face and eye from an image or when using Web Cam .
 It will able to extract the text from images if present.
