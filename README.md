@@ -1,5 +1,9 @@
+image_processing(final) is the main code.
+kindly download it if not open.
 #Image_Processing-FaceDetection And Text-Extractor-from-Image
-Through this we can apply different filter to an image.
-This project will also able to detect a face and eye from an image or when using Web Cam .
-It will able to extract the text from images if present.
-when a image such as newspaper or magiznes given as input then it will ,check if a word(given by user) is present in a image and if it is present then print a grid of all faces in that page.
+
+This is a project in python.
+o	Developed features to apply multiple filters to an image.
+o	Detect Face and Eyes in images/live webcam.
+o	Text Extraction from image/document using PYTESSARACT AND OPEN CV.
+o	check if a string is in a image and if it is present then print a grid of all faces in that page.
