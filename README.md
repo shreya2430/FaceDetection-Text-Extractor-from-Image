@@ -1,3 +1,5 @@
+KINDLY OPEN THIS "image_processing(final)-Copy1.ipynb" to view code.
+
 image_processing(final) is the main code.
 kindly download it if not open.
 #Image_Processing-FaceDetection And Text-Extractor-from-Image
