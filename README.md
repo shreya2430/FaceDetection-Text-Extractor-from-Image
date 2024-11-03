@@ -66,11 +66,5 @@ search("keyword", "path_to_images/")
 ```
 
 ## Results
-
-	- **Text Analysis Accuracy: Achieved 85% accuracy on summarization tests with a dataset of over 1,000 instances.**
-	-	**Face/Eye Detection: Robust detection using Haar cascades on varied image datasets.**
-
-## NOTE -  KINDLY OPEN THIS "image_processing(final)-Copy1.ipynb" to view code.
-image_processing(final) is the main code.
-kindly download it if not open.
-#Image_Processing-FaceDetection And Text-Extractor-from-Image
+- **Text Analysis Accuracy: Achieved 85% accuracy on summarization tests with a dataset of over 1,000 instances.**
+- **Face/Eye Detection: Robust detection using Haar cascades on varied image datasets.**
